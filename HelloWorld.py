@@ -1,2 +1,2 @@
-print("Welcome to BridgeLabz")
+print("Welcome to BridgeLab")
 
